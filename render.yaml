@@ -24,4 +24,4 @@ services:
         value: replace-with-a-long-random-string
       - key: WEB_ORIGIN
         # After first deploy, set this to your Web public URL
-        value: https://REPLACE_WITH_WEB_URL
+        value: https://ints-ops1.onrender.com/
